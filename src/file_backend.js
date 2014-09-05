@@ -25,11 +25,11 @@ function get(url, converter) {
 }
 
 function getBookList() {
-	return get('/data/books.json');
+	return get('data/books.json');
 }
 
 function getBookQuotes(id) {
-	return get('/data/'+id+'.json');
+	return get('data/'+id+'.json');
 }
 
 module.exports = {
