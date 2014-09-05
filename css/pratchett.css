@@ -1,0 +1,102 @@
+html{
+	height: 100%;
+}
+body {
+	min-height: 100%;
+	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.well {
+	z-index: 20;
+}
+@media (min-width: 768px) {
+	.container {
+		max-width: 730px;
+	}
+}
+/*#portrait {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+}*/
+
+.bullet {
+	font-size: 2em;
+	margin-right: .5em;
+	display: inline-block;
+	transform: rotateY(180deg);
+	filter: url(/img/filters.svg#elephant-grey);
+}
+
+.pager li > a {
+	border: 1px solid transparent;
+	transition: border 0.3s ease;
+}
+.pager li > a:hover, .pager li > a:focus {
+	background-color: transparent;
+	border: 1px solid #bbb;
+}
+.pager .previous .bullet {
+	margin-right: 0;
+	margin-left: .5em;
+	transform: rotateY(0deg);
+}
+
+blockquote footer:before, blockquote small:before, blockquote .small:before {
+	content: "";
+}
+blockquote:before {
+	content: "“";
+	font-size: 4em;
+	left: -0.2em;
+	position: absolute;
+	top: -0.4em;
+}
+blockquote {
+	position: relative;
+	font-weight: 100;
+	font-size: 3em;
+	border-left: none;
+	margin: .4em 0 0 .2em;
+}
+cite .bullet {
+	filter: url(/img/filters.svg#turtle-grey);
+	font-size: 1em;
+}
+.btn-default {
+	border: 1px solid transparent;
+	background-color: transparent;
+	transition: border-left 0.3s ease;
+}
+.btn-default:hover, .btn-default:focus, .open > .dropdown-toggle.btn-default {
+	border: 1px solid #999;
+	background-color: transparent;
+}
+.dropdown-menu > li > a {
+	transition: background-color 0.3s ease;
+}
+.dropdown {
+	display: inline-block;
+}
+cite .btn {
+	color: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	vertical-align: inherit;
+}
+.dropdown-menu {
+	font-size: 66.66%;
+}
+.dropdown-menu > li > a {
+	font-weight: inherit;
+}
+
+.well {
+	border: none;
+	background-color: transparent;
+}
+.footer {
+	height: 60px;
+	position: relative;
+	width: 100%;
+}

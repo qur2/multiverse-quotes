@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "pub_year": 1983,
+    "title": "The Colour of Magic",
+    "pub_year_fr": 1993,
+    "title_fr": "La Huitième Couleur",
+    "quotes": 0
+  },
+  {
+    "id": 2,
+    "pub_year": 1986,
+    "title": "The Light Fantastic",
+    "pub_year_fr": 1993,
+    "title_fr": "Le Huitième Sortilège",
+    "quotes": 0
+  },
+  {
+    "id": 3,
+    "pub_year": 1987,
+    "title": "Equal Rites",
+    "pub_year_fr": 1994,
+    "title_fr": "La Huitième Fille",
+    "quotes": 0
+  },
+  {
+    "id": 4,
+    "pub_year": 1987,
+    "pub_year_fr": 1994,
+    "title_fr": "Mortimer",
+    "title": "Mort",
+    "quotes": 0
+  },
+  {
+    "id": 5,
+    "pub_year": 1988,
+    "pub_year_fr": 1995,
+    "title_fr": "Sourcellerie",
+    "title": "Sourcery",
+    "quotes": 0
+  },
+  {
+    "id": 6,
+    "pub_year": 1988,
+    "pub_year_fr": 1995,
+    "title_fr": "Trois sœurcières",
+    "title": "Wyrd Sisters",
+    "quotes": 0
+  },
+  {
+    "id": 7,
+    "pub_year": 1989,
+    "pub_year_fr": 1996,
+    "title_fr": "Pyramides",
+    "title": "Pyramids",
+    "quotes": 0
+  },
+  {
+    "id": 8,
+    "pub_year": 1989,
+    "pub_year_fr": 1997,
+    "title_fr": "Au guet !",
+    "title": "Guards! Guards!",
+    "quotes": 0
+  },
+  {
+    "id": 9,
+    "pub_year": 1990,
+    "pub_year_fr": 1997,
+    "title_fr": "Faust Éric",
+    "title": "Faust Eric",
+    "quotes": 0
+  },
+  {
+    "id": 10,
+    "pub_year": 1990,
+    "pub_year_fr": 1997,
+    "title_fr": "Les Zinzins d'Olive-Oued",
+    "title": "Moving Pictures",
+    "quotes": 0
+  },
+  {
+    "id": 11,
+    "pub_year": 1991,
+    "pub_year_fr": 1998,
+    "title_fr": "Le Faucheur",
+    "title": "Reaper Man",
+    "quotes": 0
+  },
+  {
+    "id": 12,
+    "pub_year": 1991,
+    "pub_year_fr": 1998,
+    "title_fr": "Mécomptes de fées",
+    "title": "Witches Abroad",
+    "quotes": 0
+  },
+  {
+    "id": 13,
+    "pub_year": 1992,
+    "pub_year_fr": 1999,
+    "title_fr": "Les Petits Dieux",
+    "title": "Small Gods",
+    "quotes": 0
+  },
+  {
+    "id": 14,
+    "pub_year": 1992,
+    "pub_year_fr": 1999,
+    "title_fr": "Nobliaux et Sorcières",
+    "title": "Lords and Ladies",
+    "quotes": 0
+  },
+  {
+    "id": 15,
+    "pub_year": 1993,
+    "pub_year_fr": 2000,
+    "title_fr": "Le Guet des orfèvres",
+    "title": "Men at Arms",
+    "quotes": 0
+  },
+  {
+    "id": 16,
+    "pub_year": 1994,
+    "pub_year_fr": 2000,
+    "title_fr": "Accros du roc",
+    "title": "Soul Music",
+    "quotes": 0
+  },
+  {
+    "id": 17,
+    "pub_year": 1994,
+    "pub_year_fr": 2001,
+    "title_fr": "Les Tribulations d'un mage en Aurient",
+    "title": "Interesting Times",
+    "quotes": 0
+  },
+  {
+    "id": 18,
+    "pub_year": 1995,
+    "pub_year_fr": 2001,
+    "title_fr": "Masquarade",
+    "title": "Maskerade",
+    "quotes": 1
+  },
+  {
+    "id": 19,
+    "pub_year": 1996,
+    "pub_year_fr": 2002,
+    "title_fr": "Pieds d'argile",
+    "title": "Feet of Clay",
+    "quotes": 1
+  },
+  {
+    "id": 20,
+    "pub_year": 1996,
+    "pub_year_fr": 2002,
+    "title_fr": "Le Père Porcher",
+    "title": "Hogfather",
+    "quotes": 1
+  },
+  {
+    "id": 21,
+    "pub_year": 1997,
+    "pub_year_fr": 2003,
+    "title_fr": "Va-t-en-guerre",
+    "title": "Jingo",
+    "quotes": 0
+  },
+  {
+    "id": 22,
+    "pub_year": 1998,
+    "pub_year_fr": 2003,
+    "title_fr": "Le Dernier Continent",
+    "title": "The Last Continent",
+    "quotes": 0
+  },
+  {
+    "id": 23,
+    "pub_year": 2001,
+    "pub_year_fr": 2003,
+    "title_fr": "Le Dernier Héros",
+    "title": "The Last Hero",
+    "quotes": 0
+  },
+  {
+    "id": 24,
+    "pub_year": 1998,
+    "pub_year_fr": 2004,
+    "title_fr": "Carpe jugulum",
+    "title": "Carpe Jugulum",
+    "quotes": 0
+  },
+  {
+    "id": 25,
+    "pub_year": 1999,
+    "pub_year_fr": 2004,
+    "title_fr": "Le Cinquième Éléphant",
+    "title": "The Fifth Elephant",
+    "quotes": 0
+  },
+  {
+    "id": 26,
+    "pub_year": 2000,
+    "pub_year_fr": 2005,
+    "title_fr": "La Vérité",
+    "title": "The Truth",
+    "quotes": 0
+  },
+  {
+    "id": 27,
+    "pub_year": 2001,
+    "pub_year_fr": 2005,
+    "title_fr": "Procrastination",
+    "title": "Thief of Time",
+    "quotes": 0
+  },
+  {
+    "id": 28,
+    "pub_year": 2002,
+    "pub_year_fr": 2006,
+    "title_fr": "Ronde de nuit",
+    "title": "Night Watch",
+    "quotes": 0
+  },
+  {
+    "id": 29,
+    "pub_year": 2003,
+    "pub_year_fr": 2007,
+    "title_fr": "Le Régiment monstrueux",
+    "title": "Monstrous Regiment",
+    "quotes": 0
+  },
+  {
+    "id": 30,
+    "pub_year": 2004,
+    "pub_year_fr": 2008,
+    "title_fr": "Timbré",
+    "title": "Going Postal",
+    "quotes": 0
+  },
+  {
+    "id": 31,
+    "pub_year": 2005,
+    "pub_year_fr": 2008,
+    "title_fr": "Jeu de nains",
+    "title": "Thud!",
+    "quotes": 0
+  },
+  {
+    "id": 32,
+    "pub_year": 2007,
+    "pub_year_fr": 2009,
+    "title_fr": "Monnayé",
+    "title": "Making Money",
+    "quotes": 1
+  },
+  {
+    "id": 33,
+    "pub_year": 2009,
+    "pub_year_fr": 2010,
+    "title_fr": "Allez les mages !",
+    "title": "Unseen Academicals",
+    "quotes": 1
+  },
+  {
+    "id": 34,
+    "pub_year": 2011,
+    "pub_year_fr": 2012,
+    "title_fr": "Coup de tabac",
+    "title": "Snuff",
+    "quotes": 0
+  },
+  {
+    "id": 35,
+    "pub_year": 2013,
+    "pub_year_fr": 2014,
+    "title_fr": "Déraillé",
+    "title": "Raising Steam"
+  }
+]

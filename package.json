@@ -1,0 +1,39 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.2.0",
+  "description": "Quick packager-agnostic boilerplate for React modules using JSX",
+  "main": "src/app.js",
+  "dependencies": {
+    "es6-promise": "~0.1.1",
+    "react": "~0.11",
+    "reflux": "^0.1.7"
+  },
+  "devDependencies": {
+    "browserify": "~2.36.0",
+    "envify": "~1.2.0",
+    "reactify": "~0.4.0",
+    "statics": "~0.1.0",
+    "uglify-js": "~2.4.13",
+    "watchify": "~0.4.1",
+    "jest-cli": "~0.1.5"
+  },
+  "scripts": {
+    "start": "STATIC_ROOT=./static watchify -o dist/bundle.js -v -d .",
+    "build": "jsxc src/ lib/",
+    "collect-static": "collect-static . ./static",
+    "start2": "jsxc --watch src/ lib/"
+  },
+  "files": [
+    "lib/",
+    "USAGE.txt",
+    "static/"
+  ],
+  "author": "Pete Hunt",
+  "browserify": {
+    "transform": [
+      "reactify",
+      "envify"
+    ]
+  },
+  "license": "Apache 2"
+}
