@@ -55,10 +55,21 @@ blockquote:before {
 blockquote {
 	position: relative;
 	font-weight: 100;
-	font-size: 3em;
+	font-size: 2em;
 	border-left: none;
 	margin: .4em 0 0 .2em;
 }
+@media (min-width: 768px) {
+	blockquote {
+		font-size: 3em;
+	}
+}
+@media (max-width: 767px) {
+	cite {
+		font-size: .75em;
+	}
+}
+
 cite .bullet {
 	filter: url(filters.svg#turtle-grey);
 	font-size: 1em;
@@ -99,4 +110,9 @@ cite .btn {
 	height: 60px;
 	position: relative;
 	width: 100%;
+}
+
+.bg-elephant {
+	background: url(../img/elephant.svg) no-repeat;
+	background-size: 100%;
 }
