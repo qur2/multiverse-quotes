@@ -23,9 +23,7 @@ body {
 .bullet {
 	font-size: 2em;
 	margin-right: .5em;
-	display: inline-block;
 	transform: rotateY(180deg);
-	filter: url(filters.svg#elephant-grey);
 }
 
 .pager li > a {
@@ -71,7 +69,6 @@ blockquote {
 }
 
 cite .bullet {
-	filter: url(filters.svg#turtle-grey);
 	font-size: 1em;
 }
 .btn-default {
@@ -112,7 +109,13 @@ cite .btn {
 	width: 100%;
 }
 
-.bg-elephant {
-	background: url(../img/elephant.svg) no-repeat;
+.bg-elephant:before {
+	background: url(../img/elephant.svg) no-repeat 0 100%;
 	background-size: 100%;
+	content: "\00a0";
+}
+.bg-turtle:before {
+	background: url(../img/turtle.svg) no-repeat 0 100%;
+	background-size: 75%;
+	content: "\00a0\2000";
 }

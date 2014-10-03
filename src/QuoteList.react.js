@@ -58,13 +58,13 @@ var QuoteList = React.createClass({
 	render: function() {
 		return <div className="QuoteList" onClick={this.doSelectQuote}>
 			<ul className="pager text-right">
-				<li className="previous" rel="prev"><a href="#">⟵ <span className="bullet">🐘</span></a></li>
-				<li className="next" rel="next"><a href="#"><span className="bullet">🐘</span> ⟶</a></li>
+				<li className="previous" rel="prev"><a href="#">&larr; <span className="bullet bg-elephant glyphicon"></span></a></li>
+				<li className="next" rel="next"><a href="#"><span className="bullet bg-elephant glyphicon"></span> &rarr;</a></li>
 			</ul>
 			<blockquote>
 				{this.state.active.text}
 				<footer className="text-right"><cite>
-					<span className="bullet">🐢</span>Page {this.state.active.page}, <BookSelector showQuoteCount={false} />
+					<span className="bullet bg-turtle glyphicon"></span>Page {this.state.active.page}, <BookSelector showQuoteCount={false} />
 				</cite></footer>
 			</blockquote>
 		</div>;
