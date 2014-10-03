@@ -276,6 +276,15 @@
     "pub_year": 2013,
     "pub_year_fr": 2014,
     "title_fr": "Déraillé",
-    "title": "Raising Steam"
+    "title": "Raising Steam",
+    "quotes": 0
+  },
+  {
+    "id": "maurice",
+    "pub_year": 2001,
+    "pub_year_fr": 2004,
+    "title_fr": "Le Fabuleux Maurice Et Ses Rongeurs Savants",
+    "title": "The Amazing Maurice and His Educated Rodents",
+    "quotes": 0
   }
 ]
